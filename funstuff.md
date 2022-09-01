@@ -1,12 +1,8 @@
 ---
-title: "funstuff"
+title: "Fun stuff"
 output: html_document
 date: "2022-09-01"
 ---
-
-```{r setup, include=FALSE}
-knitr::opts_chunk$set(echo = TRUE)
-```
 
 ## Please enjoy these photos of my cats
 
