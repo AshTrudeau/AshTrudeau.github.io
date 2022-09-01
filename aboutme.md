@@ -2,7 +2,7 @@
 layout: page
 title: Research interests
 subtitle: Where I talk about science
-cover-img: /assets/img/aerial.jpg
+cover-img: /assets/img/allequash.jpg
 ---
 
 
