@@ -21,10 +21,9 @@ author: Ashley Trudeau
 
 navbar-links:
   Research Interests: "aboutme"
+  Publications: "publications"
+  The fun stuff: "funstuff"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
 
 ################
 # --- Logo --- #
