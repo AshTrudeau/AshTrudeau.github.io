@@ -1,5 +1,5 @@
 ---
-title: "publications"
+title: "Publications"
 output: html_document
 date: "2022-09-01"
 cover-img: /assets/img/aerial.jpg
