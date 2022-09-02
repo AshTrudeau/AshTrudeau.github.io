@@ -6,7 +6,7 @@ cover-img: /assets/img/aerial.jpg
 ---
 
 
-Zachary S. Feiner, Aaron d. Shultz, Greg G. Sass, Ashley Trudeau, Matthew G. Mitro, Colin J. Dassow, Alexander W. Latzka, Daniel A. Isermann, Bryan M. Maitland, Jared J. Homola, Holly S. Embke, Michael Preul. Resist-Accept-Direct (RAD) considerations for climate change adaptation in fisheries: The Wisconsin experience. (2022) Fisheries Management and Ecology. https://doi.org/10.1111/fme.12549
+Zachary S. Feiner, Aaron d. Shultz, Greg G. Sass, Ashley Trudeau, Matthew G. Mitro, Colin J. Dassow, Alexander W. Latzka, Daniel A. Isermann, Bryan M. Maitland, Jared J. Homola, Holly S. Embke, Michael Preul. Resist-Accept-Direct (RAD) considerations for climate change adaptation in fisheries: The Wisconsin experience. (2022) Fisheries Management and Ecology. [https://doi.org/10.1111/fme.12549]
 
 Ashley Trudeau, Eleanor Bochenek, Abigail Golden, Michael Melnychuk, Douglas Zemeckis, Olaf Jensen (2022) Lower possession limits and shorter seasons directly reduce for-hire fishing effort in a multispecies marine recreational fishery. Canadian Journal of Fisheries and Aquatic Sciences, 99, 999. https://doi.org/10.1139/cjfas-2021-0137
 
