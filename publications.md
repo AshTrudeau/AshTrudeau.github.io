@@ -31,3 +31,5 @@ Leander Höhne, Miquel Palmer, Chrisopher Monk, Sven Matern, Robert Nikolaus, As
 [Download PDF](.assets/pdf/environmental_perch_growth.pdf)
  
 Thomas Mehner, Tobias Rapp, Chrisopher T Monk, Mara E Beck, Ashley Trudeau, Mikko Kiljunen, Sabine Hilt, and Robert Arlinghaus. Feeding Aquatic Ecosystems: Whole-Lake Experimental Addition of Angler’s Ground Bait Strongly Affects Omnivorous Fish Despite Low Contribution to Lake Carbon Budget. Ecosystems, 22, 346-362. <https://doi.org/10.1007/s10021-018-0273-x>
+
+[View PDF](https://rdcu.be/YMkJ)
