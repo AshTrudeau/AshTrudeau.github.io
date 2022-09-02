@@ -13,7 +13,7 @@ I investigate human behavior as a key feedback in social and ecological change o
 I use stated and revealed preference methods to investigate changes in angler behavior. These analyses include discrete choice experiments and time series analysis of vessel trip report data. Further research will investigate changes in freshwater fishign effort associated with the COVID-19 pandemic and tradeoffs in species composition related to climate change. 
 
 
-### Behavioral ecology of fishes and parasites
+### Trophic and behavioral ecology of fishes and parasites
 
 While I mainly study humans these days, my first science love is the trophic and behavioral ecology of fishes and their parasites. Eurasian and  yellow perch are one useful model species for studying the ecology of generalist predators. I used stable isotope methods to investigate how littoral structure (submerged vegetation and woody structure) and primary productivity influenced the trajectory of ontogenetic niche shifts of perch in 12 gravel pit lakes. Perch that grow large enough to prey on other fish tend to be the larger individuals targeted by anglers. This relationship between littoral structure, productivity, and ontogenetic niche shifts therefore has implications for the use of habitat enhancement in fisheries management.
 
