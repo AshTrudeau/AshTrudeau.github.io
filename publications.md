@@ -20,6 +20,8 @@ Ashley Trudeau, Colin J. Dassow, Carolyn M. Iwicki, Stuart E. Jones, Greg G. Sas
 
 Chelsey L. Nieman, Carolyn Iwicki, Abigail J. Lynch, Greg G. Sass, Christopher T. Solomon, Ashley Trudeau, Brett van Poorten (2020). Creel surveys for social-ecological systems focused fisheries management. Reviews in Fisheries Science and Aquaculture, 1-20. <https://doi.org/10.1080/23308249.2020.1869696>
 
+[Download PDF](https://par.nsf.gov/servlets/purl/10287732)
+
 Christopher T. Solomon, Colin J. Dassow, Carolyn Iwicki, Olaf. P. Jensen, Stuart E. Jones, Greg G. Sass, Ashley Trudeau, Brett T. van Poorten, and Dane Whittaker (2020) Frontiers in modeling social-ecological dynamics of recreational fisheries: a review and synthesis. Fish and Fisheries 21(5), 973-991. <https://doi.org/10.1111/faf.12482>
 
 [Download PDF](.assets/pdf/modeling_review.pdf)
