@@ -27,6 +27,8 @@ Christopher T. Solomon, Colin J. Dassow, Carolyn Iwicki, Olaf. P. Jensen, Stuart
 [Download PDF](.assets/pdf/modeling_review.pdf)
  
 Andrew Carlson, William Taylor, Melissa Cronin, Mitchell Eaton, Lauren Eckert, Mark Kaemingk, Andrea Reid, Ashley Trudeau (2020) A social-ecological odyssey in fisheries and wildlife management. Fisheries, 45(5), 238-243. <https://doi.org/10.1002/fsh.10439>
+
+[Download PDF](https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1296&context=ncfwrustaff)
  
 Leander Höhne, Miquel Palmer, Chrisopher Monk, Sven Matern, Robert Nikolaus, Ashley Trudeau, Robert Arlinghaus (2020) Environmental determinants of perch (Perca fluviatilis) growth in small artificial lake ecosystems: evaluation of the performance of simple vs. complex ecological predictors. Ecology of Freshwater Fish, 29(4), 557-573. <https://doi.org/10.1111/eff.12532>
 
